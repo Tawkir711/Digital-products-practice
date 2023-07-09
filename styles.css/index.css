@@ -70,6 +70,7 @@
 .about-title{
     text-align: center;
     padding-top: 20px;
+    color: white;
 }
 .box{
     width:230px ;
@@ -99,10 +100,28 @@
     justify-content: space-around;
     padding: 20px;   
 }
-.title .about-title{
+.bgc{
     background-color: #393636;
-    border: 2px solid red;
 }
-.title about-title{
-    border: #262222;
+
+footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    padding-top: 35px;
+    padding-bottom: 50px;
+}
+.mg{
+    padding-bottom: 20px;
+}
+.last{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
+.ulo{
+    list-style: none;
 }
